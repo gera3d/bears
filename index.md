@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Unlock Adventure and Learning with Project Bears
-cover-img: "https://placekitten.com/2000/600"
+layout: home
+title: My website
+subtitle: This is where I will tell my friends way too much about me
 ---
+
 
 # {{ page.title }}
 ![Adventure Scene]({{ page.cover-img }})
