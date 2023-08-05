@@ -1,9 +1,3 @@
----
-layout: home
-title: Unlock Adventure and Learning with Project Bears
-cover-img: "https://placekitten.com/2000/600"
----
-
 # {{ page.title }}
 ![Adventure Scene]({{ page.cover-img }})
 
