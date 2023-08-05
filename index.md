@@ -4,10 +4,6 @@ title: My website
 subtitle: This is where I will tell my friends way too much about me
 ---
 
-
-# {{ page.title }}
-![Adventure Scene]({{ page.cover-img }})
-
 ## A Revolutionary Learning Experience
 Project Bears is a revolutionary platform that combines the power of storytelling with interactive learning. Our innovative approach introduces children to the world of entrepreneurship, fostering creative thinking, problem-solving skills, and a can-do attitude.
 
